@@ -1,6 +1,6 @@
 {
 	"name": "@initgoatfs/subscribablepromises",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"exports": "./index.ts",
 	"publish": {
 		"include": ["LICENSE", "README.md", "index.ts", "tsconfig.json"],
