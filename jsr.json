@@ -2,6 +2,7 @@
 	"name": "@initgoatfs/subscribablepromises",
 	"version": "0.1.2",
 	"exports": "./index.ts",
+	"description": "Subscribable Promises make using async easier!",
 	"publish": {
 		"include": ["LICENSE", "README.md", "index.ts", "tsconfig.json"],
 		"exclude": ["bun.lock", "runtime-test"]
