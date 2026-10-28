@@ -1,6 +1,6 @@
 {
 	"name": "@initgoatfs/subscribablepromises",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"exports": "./index.ts",
 	"description": "Subscribable Promises make using async easier!",
 	"publish": {
