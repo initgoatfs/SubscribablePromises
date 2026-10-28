@@ -1,0 +1,9 @@
+{
+	"name": "@initgoatfs/subscribablepromises",
+	"version": "0.1.0",
+	"exports": "./index.ts",
+	"publish": {
+		"include": ["LICENSE", "README.md", "index.ts", "tsconfig.json"],
+		"exclude": ["bun.lock"]
+	}
+}
