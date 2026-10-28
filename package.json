@@ -1,5 +1,5 @@
 {
-	"name": "subscribablepromises",
+	"name": "@initgoatfs/subscribablepromises",
 	"module": "index.ts",
 	"type": "module",
 	"private": true,
