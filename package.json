@@ -5,7 +5,8 @@
 	"license": "MIT",
 	"version": "0.1.0",
 	"scripts": {
-		"typecheck": "bun check"
+		"typecheck": "bun check",
+		"test": "bun runtime-test/test.ts"
 	},
 	"devDependencies": {
 		"@types/bun": "latest"

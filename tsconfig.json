@@ -8,7 +8,7 @@
 		"allowJs": true,
 		"types": ["bun"],
 
-		"noEmit": false,
+		"noEmit": true,
 		"noImplicitAny": true,
 		"declaration": true,
 		"strict": true,
@@ -26,7 +26,8 @@
 		"noUnusedLocals": true,
 		"noUnusedParameters": true,
 
-		"skipLibCheck": true
+		"skipLibCheck": true,
+		"allowImportingTsExtensions": true,
 	},
 	"buildOptions": {
 		"dry": true

@@ -4,6 +4,6 @@
 	"exports": "./index.ts",
 	"publish": {
 		"include": ["LICENSE", "README.md", "index.ts", "tsconfig.json"],
-		"exclude": ["bun.lock"]
+		"exclude": ["bun.lock", "runtime-test"]
 	}
 }
