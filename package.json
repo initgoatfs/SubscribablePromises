@@ -2,7 +2,6 @@
 	"name": "@initgoatfs/subscribablepromises",
 	"module": "index.ts",
 	"type": "module",
-	"private": true,
 	"license": "MIT",
 	"version": "0.1.0",
 	"scripts": {
